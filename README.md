@@ -30,4 +30,4 @@
      python lista_convidados.py
      ```
 
-Agora pode adicionar, listar e remover convidados diretamente na interface gráfica! 🎉
+Agora pode adicionar, listar e remover convidados diretamente na interface gráfica!
