@@ -1,7 +1,7 @@
 # mysql-guest-list
  - lista de convidados com mysql
 ### Passos para instalar os módulos necessários
-
+ - [English](https://github.com/0joseDark/-mysql-guest-list-0/blob/main/English-README.md) 
 1. **Instalar o Python**:
    - Certifique-se de que o Python está instalado no Windows 10. Pode ser baixado em [python.org](https://www.python.org/). Lembre-se de marcar a opção "Add Python to PATH" durante a instalação.
 
